@@ -1,1 +1,1 @@
-# Blocked authors (exact, case-insensitive). One per line.
+54fdd7035c91078592360e4965dbe9d2
