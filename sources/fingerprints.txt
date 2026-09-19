@@ -1,4 +1,0 @@
-# Blocked mod content fingerprints. One 32-hex fingerprint per line.
-# Generate one by dropping a mod on the fingerprint tool. Lines starting with # and blank lines are ignored.
-54fdd7035c91078592360e4965dbe9d2
-54fdd7035c91078592360e4965dbe9d3
